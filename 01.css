@@ -1,0 +1,19 @@
+body{
+    background-color: beige;
+}
+
+.box_container{
+    width: 1000px;
+    height: 1000px;
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: ivory;
+    margin: 20px 0 0 20px;
+}
